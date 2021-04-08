@@ -3,7 +3,6 @@
 - ❤  I love watching Vtubers 🌶😈
 - 🌱 I’m currently learning Python, C#, Java
 - 💞️ I’m looking to collaborate on ...(not yet)
-- 📫 How to reach me ...(details will be given when I feel ready)
 
 <!---
 UMR-IV/UMR-IV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
