@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @UMR-IV
 - 👀 I’m interested in game dev, arduino, raspberry pi, and apps
 - ❤  I love watching Vtubers 🌶😈
+- 語 I can speak English, Malay, Indonesian, basic Japanese(日本語)
 - 🌱 I’m currently learning Python, C#, Java
 - 💞️ I’m looking to collaborate on ...(not yet)
 
