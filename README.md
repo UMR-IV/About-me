@@ -1,6 +1,6 @@
 - 👋  Hi, I’m @UMR-IV
 - ❤   I love Nanahira songs 🐇
-- 話語 I can speak English, Malay, Indonesian, basic Japanese(日本語)
+- 話語 I can speak English, Malay, Indonesian, basic Japanese(日本語), very little bit of Chinese
 - 🌱  I’m currently learning Python, C++, C#, JavaScript
 - 👀  I might want to join a project, so if you think you need help, I'll be happy to try and help you
 <!---
